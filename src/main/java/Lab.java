@@ -15,5 +15,12 @@ public class Lab {
      */
     public void throwUncheckedException(){
 
+        int a = 8;
+        int b = 0;
+        System.out.println(a/b);
+
+
+
+
     }
 }
